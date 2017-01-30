@@ -1,8 +1,8 @@
-Tinusaur MAX7219 Sample for 8 LED 8x8 Matrixes
-==============================================
+Tinusaur Sample for flowing text on 8 LED 8x8 Matrixes in two rows.
+===================================================================
 
 ##Description
-This is a C exapmle for working with the MAX7219 display driver to control 8 LED 8x8 matrixes. It is intended to be used with the Tinusaur board but should also work with any other board based on ATtiny85 or similar microcontroller.
+This is a C sapmle for working with the MAX7219 display driver to control 8 LED 8x8 matrixes. It is intended to be used with the Tinusaur board but should also work with any other board based on ATtiny85 or similar microcontroller.
 
 ##Supported microcontrollers
 This was developed with and tested on the following microcontrollers: ATtiny85
